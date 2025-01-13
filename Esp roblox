@@ -1,0 +1,3 @@
+pcall(function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/LOgigica/roblox-esp-simple/refs/heads/main/RobloxEsp.lua'))()
+end)
